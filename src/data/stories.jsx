@@ -3,7 +3,7 @@ export const stories = [
     id: "an-apartment-for-two",
     title: "An Apartment for Two",
     description: "A seven-part short story.",
-    pdf: "/stories/an-apartment-for-two.pdf",
+    pdf: "/stories/an_apartment_for_two.pdf",
     parts: [
       {
         part: 1,
